@@ -1,0 +1,15 @@
+links-features of selenium
+   1.//a[text()='Features']
+   2.//a[contains(text(),'Features']//recommonded
+   3.//a[text()='Alerts']
+buttons:
+  1.//button[@type='button' and class='btn']
+  2.//button[contains(text(),'Signup')]//recommonded   
+  
+  //div[@class='dropdown']//button[@type='button'] and @class='btn btn-secondary dropdown-toggle' and @id='dropdownMenu2']
+  //button[@id='dropdownMenu2']//recommonded
+  
+  //a[text()='kumar bharat']//parent::td[@class='datalistrow']//preceding-sibling::td[@class='datalistrow']//input[@name='contact_id']
+  
+  driver.findElement(By.xpath("//a[text()='kumar bharat']//parent::td[@class='datalistrow']//preceding-sibling::td[@class='datalistrow']
+  //input[@name='contact_id']")).click();

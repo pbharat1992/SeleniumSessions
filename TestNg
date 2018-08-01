@@ -1,0 +1,15 @@
+TestNG--unit test framework
+TDD framework-test driven development
+
+purpose-design test cases in a systematic way
+----generates html reports
+----diff annotations
+----priorities/sequence
+----dependency 
+----grouping
+----data provider
+TestNG-open source,free JAR files
+Java unit testing framework
+
+install testng framework
+--http://beust.com/eclipse/

@@ -1,0 +1,10 @@
+name=tom
+age=25
+url=https://reg.ebay.com/reg/PartialReg?_trksid=m570.l2621
+browser=chrome
+----------Register Page-Test Data-----------
+firstname=bharat
+lastname=kumar
+----------Register page-object repository------
+firstname_xpath=//*[@id="firstname"]
+lastname_xpath=//*[@id="lastname"]
